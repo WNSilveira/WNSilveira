@@ -1,5 +1,5 @@
 # 💫 About Me:
-:<br>Empreendedor focado em tecnologia e automação.<br>Lidero a agência Comnext (tráfego e soluções SaaS).<br>Administrando  a  Farm Ouro Branco.<br>Professor de Sociologia.<br><br>Tecnologias:<br>React<br>Tailwind CSS<br>Firebase<br>Interesses:<br><br>Inteligência Artificial<br>Mercado Financeiro<br>Empreendedorismo
+<br>Empreendedor focado em tecnologia e automação.<br>Lidero a agência Comnext (tráfego e soluções SaaS).<br>Administrando  a  Farm Ouro Branco.<br>Professor de Sociologia.<br><br>Tecnologias:<br>React<br>Tailwind CSS<br>Firebase<br>Interesses:<br><br>Inteligência Artificial<br>Mercado Financeiro<br>Empreendedorismo
 
 
 # 💻 Tech Stack:
